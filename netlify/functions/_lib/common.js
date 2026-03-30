@@ -8,7 +8,7 @@ const DEFAULT_PRODUCTS = {
   },
   'smart-capture': {
     usd: '2.99',
-    inr: '249',
+    inr: '1',
     businessName: 'Advanced Smart Capture'
   }
 };
